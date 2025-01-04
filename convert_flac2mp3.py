@@ -2,6 +2,7 @@
 # file : convert_flac2mp3.py
 # convert flac to mp3 recursively and in place
 # can delete flac if required.
+# https://github.com/chemage/flac2mp3
 # Source: https://www.digitalocean.com/community/tutorials/python-multiprocessing-example
 __author__ = "Marcel Gerber"
 __date__ = "2025-01-04"
